@@ -31,6 +31,14 @@
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="00_Create_database.sql" />
+    <Content Include="03_Happy-Grumpy-Loc.sql" />
+    <Content Include="04_Happy-Grumpy-Country.sql" />
+    <Content Include="05_Happy-Grumpy-User.sql" />
+    <Content Include="06_CHECK_Happy-Grumpy-User.sql" />
+    <Content Include="AFINN-111.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
        Visual Studio and specify your pre- and post-build commands in

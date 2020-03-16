@@ -33,7 +33,7 @@ def parse_line(j_line, tweets, sentiments):
         sentiment += sentiments[word];
     if (matches > 0):
         sentiment = float(sentiment) / matches
-        tweets.append((j_line['id'], sentiment))
+    tweets.append((j_line['id'], sentiment))
 
 
 
