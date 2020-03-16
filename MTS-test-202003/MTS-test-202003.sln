@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MTS-test-202003", "MTS-test-202003.pyproj", "{165849EE-A9E2-4F43-9D9D-41C8862403E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{165849EE-A9E2-4F43-9D9D-41C8862403E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{165849EE-A9E2-4F43-9D9D-41C8862403E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D34BD46B-CE0A-427E-99ED-1E63F96AE2FE}
+	EndGlobalSection
+EndGlobal
